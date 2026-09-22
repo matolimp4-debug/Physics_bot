@@ -14,8 +14,7 @@ from aiogram.types import (
 )
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-BOT_TOKEN = "8839579656:AAFMvxw5FGNgkBI_vGQjCkG5engkrwHELOU"  # <-- ВСТАВЬ СЮДА СВОЙ ТОКЕН
-
+BOT_TOKEN = "8839579656:AAFMvxw5FGNgkBI_vGQjCkG5engkrwHELOU" 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 DB_PATH = "physics_ege18.db"
